@@ -11,3 +11,9 @@ O Docker é uma plataforma open source que facilita a criação e administraçã
 
 O que é MySQL?
 O MySQL é um sistema gerenciador de banco de dados relacional de código aberto usado na maioria das aplicações gratuitas para gerir suas bases de dados.
+
+Instalação
+
+-Baixe e instale o Docker https://docs.docker.com/desktop/install/windows-install/
+-
+

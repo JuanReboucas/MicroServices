@@ -15,5 +15,8 @@ O MySQL é um sistema gerenciador de banco de dados relacional de código aberto
 Instalação
 
 -Baixe e instale o Docker https://docs.docker.com/desktop/install/windows-install/
--
+-Baixe e instale o wsl 2 https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+-Abra o cmd e coloque o comando para instalar a imagem MySQL 
+      docker pull mysql
+
 

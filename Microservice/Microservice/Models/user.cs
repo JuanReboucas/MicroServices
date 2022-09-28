@@ -1,8 +1,8 @@
 ﻿namespace Microservice.Models
 {
-    public  class user 
+    public  class User 
     {
-        public  int id { get; set; }
-        public string fullName { get; set; }
+        public int Id { get; set; }
+        public string FullName { get; set; }
     }
 }
